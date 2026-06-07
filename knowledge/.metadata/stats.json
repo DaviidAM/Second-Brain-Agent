@@ -1,0 +1,25 @@
+{
+  "total_files": 8,
+  "total_words": 2765,
+  "average_file_size": 345,
+  "unique_tags": [
+    "patterns",
+    "resilience",
+    "microservices",
+    "distributed-systems",
+    "python",
+    "performance",
+    "implementation",
+    "best-practices",
+    "security",
+    "authentication",
+    "api-design",
+    "caching",
+    "backend",
+    "documentation",
+    "architecture",
+    "monitoring",
+    "testing"
+  ],
+  "last_indexed": "2026-06-07T13:02:32.341215"
+}

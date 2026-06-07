@@ -1,0 +1,211 @@
+{
+  "nodes": {
+    "wiki/patterns/circuit-breaker.md": {
+      "title": "Circuit Breaker Pattern: Preventing Cascading Failures in Distributed Systems",
+      "tags": [
+        "patterns",
+        "resilience",
+        "microservices",
+        "distributed-systems"
+      ],
+      "link_count": 4,
+      "reference_count": 6
+    },
+    "wiki/python/async-await.md": {
+      "title": "Asynchronous Programming in Python: Async/Await, Coroutines, and Event Loops",
+      "tags": [
+        "python",
+        "performance",
+        "implementation",
+        "best-practices"
+      ],
+      "link_count": 3,
+      "reference_count": 0
+    },
+    "wiki/security/authentication.md": {
+      "title": "Authentication and Authorization: OAuth2, JWT, and Secure Access Control Implementation",
+      "tags": [
+        "security",
+        "authentication",
+        "best-practices",
+        "api-design"
+      ],
+      "link_count": 3,
+      "reference_count": 1
+    },
+    "wiki/backend/caching-strategies.md": {
+      "title": "Caching Strategies: Improving Performance with Smart Cache Design and Invalidation",
+      "tags": [
+        "caching",
+        "performance",
+        "backend",
+        "best-practices"
+      ],
+      "link_count": 3,
+      "reference_count": 2
+    },
+    "wiki/backend/rest-api-design.md": {
+      "title": "Building RESTful APIs: Design Principles, Best Practices, and Common Patterns",
+      "tags": [
+        "api-design",
+        "backend",
+        "best-practices",
+        "documentation"
+      ],
+      "link_count": 3,
+      "reference_count": 4
+    },
+    "wiki/backend/microservices.md": {
+      "title": "Building Microservices Architecture: Design Principles and Implementation Best Practices",
+      "tags": [
+        "microservices",
+        "backend",
+        "architecture",
+        "distributed-systems",
+        "best-practices"
+      ],
+      "link_count": 4,
+      "reference_count": 5
+    },
+    "wiki/backend/api-gateway.md": {
+      "title": "API Gateway Pattern: Routing, Load Balancing, and Cross-Cutting Concerns in Microservices",
+      "tags": [
+        "microservices",
+        "api-design",
+        "patterns",
+        "backend"
+      ],
+      "link_count": 4,
+      "reference_count": 1
+    },
+    "wiki/backend/error-handling.md": {
+      "title": "Error Handling and Logging: Building Robust Error Management and Observability Systems",
+      "tags": [
+        "monitoring",
+        "testing",
+        "best-practices",
+        "backend"
+      ],
+      "link_count": 3,
+      "reference_count": 0
+    }
+  },
+  "edges": [
+    {
+      "source": "wiki/python/async-await.md",
+      "target": "wiki/backend/microservices.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/python/async-await.md",
+      "target": "wiki/backend/rest-api-design.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/security/authentication.md",
+      "target": "wiki/backend/rest-api-design.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/security/authentication.md",
+      "target": "wiki/patterns/circuit-breaker.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/caching-strategies.md",
+      "target": "wiki/backend/rest-api-design.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/caching-strategies.md",
+      "target": "wiki/patterns/circuit-breaker.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/caching-strategies.md",
+      "target": "wiki/backend/microservices.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/rest-api-design.md",
+      "target": "wiki/backend/microservices.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/rest-api-design.md",
+      "target": "wiki/patterns/circuit-breaker.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/rest-api-design.md",
+      "target": "wiki/backend/caching-strategies.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/microservices.md",
+      "target": "wiki/patterns/circuit-breaker.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/microservices.md",
+      "target": "wiki/backend/api-gateway.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/api-gateway.md",
+      "target": "wiki/backend/microservices.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/api-gateway.md",
+      "target": "wiki/backend/caching-strategies.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/api-gateway.md",
+      "target": "wiki/security/authentication.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/api-gateway.md",
+      "target": "wiki/patterns/circuit-breaker.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/error-handling.md",
+      "target": "wiki/backend/rest-api-design.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/error-handling.md",
+      "target": "wiki/patterns/circuit-breaker.md",
+      "type": "references",
+      "weight": 1
+    },
+    {
+      "source": "wiki/backend/error-handling.md",
+      "target": "wiki/backend/microservices.md",
+      "type": "references",
+      "weight": 1
+    }
+  ],
+  "total_nodes": 8,
+  "total_edges": 19
+}

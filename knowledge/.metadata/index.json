@@ -1,0 +1,1049 @@
+{
+  "keyword_index": {
+    "solution": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "preventing": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "open": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "microservices": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "threshold": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "problem": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "cascading": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "overview": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "related": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "benefits": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "state": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "breaker": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "monitoring": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "world": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "half": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "circuit": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "implementation": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "service": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "real": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "failure": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "distributed": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "systems": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "examples": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "failures": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "timeout": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "self": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "details": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "resilience": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "recovery": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "closed": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "wiki": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "key": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/python/async-await.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "drawbacks": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "states": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "md": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "requests": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/python/async-await.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "configuration": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "pattern": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "distributed-systems": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/backend/microservices.md"
+    ],
+    "transitions": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "patterns": [
+      "wiki/patterns/circuit-breaker.md",
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "failing": [
+      "wiki/patterns/circuit-breaker.md"
+    ],
+    "await": [
+      "wiki/python/async-await.md"
+    ],
+    "loop": [
+      "wiki/python/async-await.md"
+    ],
+    "asyncio": [
+      "wiki/python/async-await.md"
+    ],
+    "performance": [
+      "wiki/python/async-await.md",
+      "wiki/backend/caching-strategies.md"
+    ],
+    "topics": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "programming": [
+      "wiki/python/async-await.md"
+    ],
+    "concepts": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md"
+    ],
+    "best-practices": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "concurrent": [
+      "wiki/python/async-await.md"
+    ],
+    "support": [
+      "wiki/python/async-await.md"
+    ],
+    "creation": [
+      "wiki/python/async-await.md"
+    ],
+    "loops": [
+      "wiki/python/async-await.md"
+    ],
+    "libraries": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md"
+    ],
+    "coroutines": [
+      "wiki/python/async-await.md"
+    ],
+    "blocking": [
+      "wiki/python/async-await.md"
+    ],
+    "client": [
+      "wiki/python/async-await.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "practices": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "task": [
+      "wiki/python/async-await.md"
+    ],
+    "result": [
+      "wiki/python/async-await.md"
+    ],
+    "http": [
+      "wiki/python/async-await.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "operations": [
+      "wiki/python/async-await.md"
+    ],
+    "data": [
+      "wiki/python/async-await.md",
+      "wiki/backend/microservices.md"
+    ],
+    "def": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md"
+    ],
+    "what": [
+      "wiki/python/async-await.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "common": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "context": [
+      "wiki/python/async-await.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "url": [
+      "wiki/python/async-await.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "event": [
+      "wiki/python/async-await.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/microservices.md"
+    ],
+    "fetch": [
+      "wiki/python/async-await.md"
+    ],
+    "python": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "comparison": [
+      "wiki/python/async-await.md"
+    ],
+    "asynchronous": [
+      "wiki/python/async-await.md",
+      "wiki/backend/microservices.md"
+    ],
+    "async": [
+      "wiki/python/async-await.md"
+    ],
+    "pitfalls": [
+      "wiki/python/async-await.md"
+    ],
+    "timeouts": [
+      "wiki/python/async-await.md"
+    ],
+    "best": [
+      "wiki/python/async-await.md",
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "you": [
+      "wiki/security/authentication.md"
+    ],
+    "role": [
+      "wiki/security/authentication.md"
+    ],
+    "can": [
+      "wiki/security/authentication.md"
+    ],
+    "security": [
+      "wiki/security/authentication.md"
+    ],
+    "posts": [
+      "wiki/security/authentication.md"
+    ],
+    "token": [
+      "wiki/security/authentication.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "scope": [
+      "wiki/security/authentication.md"
+    ],
+    "tools": [
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "control": [
+      "wiki/security/authentication.md"
+    ],
+    "example": [
+      "wiki/security/authentication.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "jwt": [
+      "wiki/security/authentication.md"
+    ],
+    "api-design": [
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "core": [
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md"
+    ],
+    "oauth": [
+      "wiki/security/authentication.md"
+    ],
+    "access": [
+      "wiki/security/authentication.md"
+    ],
+    "based": [
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "structure": [
+      "wiki/security/authentication.md"
+    ],
+    "user": [
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "attribute": [
+      "wiki/security/authentication.md"
+    ],
+    "secure": [
+      "wiki/security/authentication.md"
+    ],
+    "fastapi": [
+      "wiki/security/authentication.md"
+    ],
+    "get": [
+      "wiki/security/authentication.md"
+    ],
+    "post": [
+      "wiki/security/authentication.md"
+    ],
+    "oauth2": [
+      "wiki/security/authentication.md"
+    ],
+    "tokens": [
+      "wiki/security/authentication.md"
+    ],
+    "authorization": [
+      "wiki/security/authentication.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "authentication": [
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "delete": [
+      "wiki/security/authentication.md",
+      "wiki/backend/caching-strategies.md"
+    ],
+    "rbac": [
+      "wiki/security/authentication.md"
+    ],
+    "vulnerabilities": [
+      "wiki/security/authentication.md"
+    ],
+    "id": [
+      "wiki/security/authentication.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "abac": [
+      "wiki/security/authentication.md"
+    ],
+    "session": [
+      "wiki/security/authentication.md"
+    ],
+    "claims": [
+      "wiki/security/authentication.md"
+    ],
+    "identity": [
+      "wiki/security/authentication.md"
+    ],
+    "methods": [
+      "wiki/security/authentication.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "policies": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "ttl": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "behind": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "invalidation": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "memory": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "monitor": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "eviction": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "caching": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "metrics": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "strategies": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md"
+    ],
+    "layers": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "database": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "manual": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "types": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "smart": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "application": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "why": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "return": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "reduces": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "browser": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "time": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "through": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "write": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "critical": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "rate": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "cdn": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "aside": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "cache": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "design": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md"
+    ],
+    "improving": [
+      "wiki/backend/caching-strategies.md"
+    ],
+    "backend": [
+      "wiki/backend/caching-strategies.md",
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "standard": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "500": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "path": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "response": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "resource": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "ok": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "statelessness": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "formats": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "urls": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "users": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "codes": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "apis": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "header": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "error": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "architecture": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "json": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "status": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "principles": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "400": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "interface": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "documentation": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "restful": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "query": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "200": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "uniform": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "resources": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "ratelimit": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "limiting": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "api": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "server": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "request": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/api-gateway.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "rest": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "parameter": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "building": [
+      "wiki/backend/rest-api-design.md",
+      "wiki/backend/microservices.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "success": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "versioning": [
+      "wiki/backend/rest-api-design.md"
+    ],
+    "communication": [
+      "wiki/backend/microservices.md"
+    ],
+    "deployment": [
+      "wiki/backend/microservices.md"
+    ],
+    "deployable": [
+      "wiki/backend/microservices.md"
+    ],
+    "independently": [
+      "wiki/backend/microservices.md"
+    ],
+    "advantages": [
+      "wiki/backend/microservices.md"
+    ],
+    "high": [
+      "wiki/backend/microservices.md"
+    ],
+    "stack": [
+      "wiki/backend/microservices.md"
+    ],
+    "communicate": [
+      "wiki/backend/microservices.md"
+    ],
+    "autonomous": [
+      "wiki/backend/microservices.md"
+    ],
+    "synchronous": [
+      "wiki/backend/microservices.md"
+    ],
+    "services": [
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "responsibility": [
+      "wiki/backend/microservices.md"
+    ],
+    "coupling": [
+      "wiki/backend/microservices.md"
+    ],
+    "decentralized": [
+      "wiki/backend/microservices.md"
+    ],
+    "loose": [
+      "wiki/backend/microservices.md"
+    ],
+    "cohesion": [
+      "wiki/backend/microservices.md"
+    ],
+    "management": [
+      "wiki/backend/microservices.md",
+      "wiki/backend/error-handling.md"
+    ],
+    "message": [
+      "wiki/backend/microservices.md"
+    ],
+    "technology": [
+      "wiki/backend/microservices.md"
+    ],
+    "well": [
+      "wiki/backend/microservices.md"
+    ],
+    "complexity": [
+      "wiki/backend/microservices.md"
+    ],
+    "each": [
+      "wiki/backend/microservices.md"
+    ],
+    "challenges": [
+      "wiki/backend/microservices.md"
+    ],
+    "gateway": [
+      "wiki/backend/microservices.md",
+      "wiki/backend/api-gateway.md"
+    ],
+    "single": [
+      "wiki/backend/microservices.md"
+    ],
+    "should": [
+      "wiki/backend/microservices.md"
+    ],
+    "balancing": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "cutting": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "responsibilities": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "routing": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "popular": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "cons": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "considerations": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "transformation": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "concerns": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "headers": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "load": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "gateways": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "use": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "pros": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "when": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "cross": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "proxy": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "nginx": [
+      "wiki/backend/api-gateway.md"
+    ],
+    "failed": [
+      "wiki/backend/error-handling.md"
+    ],
+    "logger": [
+      "wiki/backend/error-handling.md"
+    ],
+    "alert": [
+      "wiki/backend/error-handling.md"
+    ],
+    "apierror": [
+      "wiki/backend/error-handling.md"
+    ],
+    "validate": [
+      "wiki/backend/error-handling.md"
+    ],
+    "hierarchy": [
+      "wiki/backend/error-handling.md"
+    ],
+    "levels": [
+      "wiki/backend/error-handling.md"
+    ],
+    "observability": [
+      "wiki/backend/error-handling.md"
+    ],
+    "exception": [
+      "wiki/backend/error-handling.md"
+    ],
+    "specific": [
+      "wiki/backend/error-handling.md"
+    ],
+    "bad": [
+      "wiki/backend/error-handling.md"
+    ],
+    "unstructured": [
+      "wiki/backend/error-handling.md"
+    ],
+    "class": [
+      "wiki/backend/error-handling.md"
+    ],
+    "handling": [
+      "wiki/backend/error-handling.md"
+    ],
+    "format": [
+      "wiki/backend/error-handling.md"
+    ],
+    "alerting": [
+      "wiki/backend/error-handling.md"
+    ],
+    "conditions": [
+      "wiki/backend/error-handling.md"
+    ],
+    "good": [
+      "wiki/backend/error-handling.md"
+    ],
+    "structured": [
+      "wiki/backend/error-handling.md"
+    ],
+    "input": [
+      "wiki/backend/error-handling.md"
+    ],
+    "gracefully": [
+      "wiki/backend/error-handling.md"
+    ],
+    "testing": [
+      "wiki/backend/error-handling.md"
+    ],
+    "usage": [
+      "wiki/backend/error-handling.md"
+    ],
+    "configure": [
+      "wiki/backend/error-handling.md"
+    ],
+    "fast": [
+      "wiki/backend/error-handling.md"
+    ],
+    "provide": [
+      "wiki/backend/error-handling.md"
+    ],
+    "recover": [
+      "wiki/backend/error-handling.md"
+    ],
+    "logging": [
+      "wiki/backend/error-handling.md"
+    ],
+    "importance": [
+      "wiki/backend/error-handling.md"
+    ],
+    "email": [
+      "wiki/backend/error-handling.md"
+    ],
+    "invalid": [
+      "wiki/backend/error-handling.md"
+    ],
+    "pass": [
+      "wiki/backend/error-handling.md"
+    ],
+    "info": [
+      "wiki/backend/error-handling.md"
+    ],
+    "fail": [
+      "wiki/backend/error-handling.md"
+    ],
+    "valid": [
+      "wiki/backend/error-handling.md"
+    ],
+    "immediately": [
+      "wiki/backend/error-handling.md"
+    ],
+    "robust": [
+      "wiki/backend/error-handling.md"
+    ]
+  },
+  "file_metadata": {
+    "wiki/patterns/circuit-breaker.md": {
+      "title": "Circuit Breaker Pattern: Preventing Cascading Failures in Distributed Systems",
+      "created_at": "2026-05-01T10:00:00Z",
+      "last_modified": "2026-06-01T14:30:00Z",
+      "author": "david-alba",
+      "word_count": 343,
+      "tags": [
+        "patterns",
+        "resilience",
+        "microservices",
+        "distributed-systems"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/python/async-await.md": {
+      "title": "Asynchronous Programming in Python: Async/Await, Coroutines, and Event Loops",
+      "created_at": "2026-04-20T14:30:00Z",
+      "last_modified": "2026-06-02T09:15:00Z",
+      "author": "david-alba",
+      "word_count": 297,
+      "tags": [
+        "python",
+        "performance",
+        "implementation",
+        "best-practices"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/security/authentication.md": {
+      "title": "Authentication and Authorization: OAuth2, JWT, and Secure Access Control Implementation",
+      "created_at": "2026-05-15T10:30:00Z",
+      "last_modified": "2026-06-02T15:20:00Z",
+      "author": "david-alba",
+      "word_count": 389,
+      "tags": [
+        "security",
+        "authentication",
+        "best-practices",
+        "api-design"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/backend/caching-strategies.md": {
+      "title": "Caching Strategies: Improving Performance with Smart Cache Design and Invalidation",
+      "created_at": "2026-05-05T11:00:00Z",
+      "last_modified": "2026-06-01T13:45:00Z",
+      "author": "david-alba",
+      "word_count": 304,
+      "tags": [
+        "caching",
+        "performance",
+        "backend",
+        "best-practices"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/backend/rest-api-design.md": {
+      "title": "Building RESTful APIs: Design Principles, Best Practices, and Common Patterns",
+      "created_at": "2026-05-10T08:15:00Z",
+      "last_modified": "2026-06-01T16:45:00Z",
+      "author": "david-alba",
+      "word_count": 291,
+      "tags": [
+        "api-design",
+        "backend",
+        "best-practices",
+        "documentation"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/backend/microservices.md": {
+      "title": "Building Microservices Architecture: Design Principles and Implementation Best Practices",
+      "created_at": "2026-04-15T09:00:00Z",
+      "last_modified": "2026-06-02T11:20:00Z",
+      "author": "david-alba",
+      "word_count": 227,
+      "tags": [
+        "microservices",
+        "backend",
+        "architecture",
+        "distributed-systems",
+        "best-practices"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/backend/api-gateway.md": {
+      "title": "API Gateway Pattern: Routing, Load Balancing, and Cross-Cutting Concerns in Microservices",
+      "created_at": "2026-05-20T12:00:00Z",
+      "last_modified": "2026-06-01T10:45:00Z",
+      "author": "david-alba",
+      "word_count": 416,
+      "tags": [
+        "microservices",
+        "api-design",
+        "patterns",
+        "backend"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    },
+    "wiki/backend/error-handling.md": {
+      "title": "Error Handling and Logging: Building Robust Error Management and Observability Systems",
+      "created_at": "2026-05-25T14:15:00Z",
+      "last_modified": "2026-06-02T12:30:00Z",
+      "author": "david-alba",
+      "word_count": 498,
+      "tags": [
+        "monitoring",
+        "testing",
+        "best-practices",
+        "backend"
+      ],
+      "relations": [],
+      "source_type": "manual"
+    }
+  },
+  "total_files": 8
+}
